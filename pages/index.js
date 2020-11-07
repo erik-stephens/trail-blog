@@ -12,24 +12,24 @@ export default function Home({ allPostsData }) {
       <Head>
         <title>{siteTitle}</title>
       </Head>
-      <section className={utilStyles.headingMd}>
-        <p>Just a jerky little bastard always swinging at the fences.</p>
-      </section>
-      <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-        <h2 className={utilStyles.headingLg}>Blog</h2>
-        <ul className={utilStyles.list}>
-        {allPostsData.map(({ id, date, title }) => (
+      <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`} style={{float: 'right'}}>
+      <h2 className={utilStyles.headingLg}>Blog</h2>
+      <ul className={utilStyles.list}>
+      {allPostsData.map(({ id, data }) => (
           <li className={utilStyles.listItem} key={id}>
-            <Link href={`/posts/${id}`}>
-              <a>{title}</a>
-            </Link>
-            <br />
-            <small className={utilStyles.lightText}>
-              <Date dateString={date} />
-            </small>
+          <Link href={`/posts/${id}`}>
+          <a>{data.title}</a>
+          </Link>
+          <br />
+          <small className={utilStyles.lightText}>
+          <Date dateString={data.date} />
+          </small>
           </li>
-        ))}
-        </ul>
+      ))}
+    </ul>
+      </section>
+      <section className={utilStyles.headingMd}>
+        <p>...</p>
       </section>
     </Layout>
   )
