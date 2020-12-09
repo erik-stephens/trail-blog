@@ -3,6 +3,7 @@ import Layout from '../../components/layout'
 import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link'
+import { getAllPostIds, getPostData } from '../../lib/posts'
 import Date from '../../components/date'
 import utilStyles from '../../styles/utils.module.css'
 import Carousel from 'react-multi-carousel'
@@ -99,8 +100,8 @@ export default function Post({ id, data, text, images }) {
 }
 
 export async function getStaticPaths() {
-  const posts = require('../../lib/posts')
-  const paths = await posts.getAllPostIds()
+  const fs = require('fs/promises')
+  const paths = await getAllPostIds(fs)
   return {
     paths,
     fallback: false
@@ -108,8 +109,8 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({ params }) {
-  const posts = require('../../lib/posts')
-  const data = await posts.getPostData(params.id)
+  const fs = require('fs/promises')
+  const data = await getPostData(fs, params.id)
   return {
     props: {
       ...data

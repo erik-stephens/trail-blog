@@ -50,7 +50,8 @@ export default function Home({ posts, images }) {
 }
 
 export async function getStaticProps() {
-  const allPostsData = await getSortedPostsData()
+  const fs = require('fs/promises')
+  const allPostsData = await getSortedPostsData(fs)
   return {
     props: {
       ...allPostsData
