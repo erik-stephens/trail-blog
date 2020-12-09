@@ -2,7 +2,6 @@
 title: DAY 41 - Bombin'
 date: 2020-10-03
 ---
-DAY 41 - Bombin'
 
 Woke up to a nice sunrise after a warmer night than expected. Hit Italian Spring with the birds just before summit.  The summit was not scenic, surprisingly flat pine forest. However, a short side trip to Spud Rock had all the views.
 

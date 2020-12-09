@@ -2,7 +2,6 @@
 title: DAY 45 - Patagonia
 date: 2020-10-07
 ---
-DAY 45 - Patagonia
 
 It's hump day and I climbed over highest Mt Wrightson point that the AZT goes through then bombed down the other to get to Patagonia in time for a cold beverage and resupply.
 

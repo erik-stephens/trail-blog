@@ -2,7 +2,6 @@
 title: DAY 30 - Bushwhacked
 date: 2020-09-22
 ---
-DAY 30 - Bushwhacked
 
 Stop me if you've heard this one before: Erik hikes at night, Erik loses trail, Erik cries himself to sleep. Well, I would've been crying if I'd known that I set myself up for a day of bushwhacking.
 

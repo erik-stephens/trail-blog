@@ -2,7 +2,6 @@
 title: DAY 46 - Parker Canyon Lake
 date: 2020-10-08
 ---
-DAY 46 - Parker Canyon Lake
 
 Now that I can see the finish line, or at least the last mtn range, I'm pumped to git-r-done. It was cool to be able to see the Superstitions, Mt Lemmon, Mica Mtn, Mt Wrightson, and Miller Peak all from the same vantage point.
 

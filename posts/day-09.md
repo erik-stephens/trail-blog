@@ -2,7 +2,6 @@
 title: DAY 9 - Canyon Climb
 date: 2020-09-01
 ---
-DAY 9 - Canyon Climb
 
 The thought of tapping out before reaching the South Rim had my amygdala & ego swollen to all time highs over the past week. Happy to report that I survived the Grand Canyon 😅
 

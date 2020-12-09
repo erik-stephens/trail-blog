@@ -2,7 +2,6 @@
 title: DAYS 5-7 - Stomach Shock
 date: 2020-08-28
 ---
-DAYS 5-7 - Stomach Shock
 
 Found a friend at one of the water sources. He woke me up in the middle of the night in a cold sweat and continued to be annoying throughout the day. Since he gave no indication of leaving me, I thought best for us to get a room for a couple of nights so that we could get better acquainted. I fed him all kinds of things to try to satisfy him - I think raw garlic was his favorite. I think we're buds now, which is good, cuz I didn't want to have to nuke my micro biome with antibiotics.
 

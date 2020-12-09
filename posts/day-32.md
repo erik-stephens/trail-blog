@@ -2,7 +2,6 @@
 title: DAY 32 - Desert (for reals edition)
 date: 2020-09-24
 ---
-DAY 32 - Desert (for reals edition)
 
 Got a late start dealing with laundry, bathing, and my buried resupply. Some ants made it into a few things, but I won't complain about a little extra protein 😁
 

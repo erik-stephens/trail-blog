@@ -2,7 +2,6 @@
 title: DAY 34 - Where's Waldo?
 date: 2020-09-26
 ---
-DAY 34 - Where's Waldo?
 
 Chillin' in Kearny is part of my Plan B. Old Time Pizza taking great care of me and thru-hikers for years.
 

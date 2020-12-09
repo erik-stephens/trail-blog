@@ -2,7 +2,6 @@
 title: DAY 8 - Canyon Descent
 date: 2020-08-31
 ---
-DAY 8 - Canyon Descent
 
 "I STRONG! ME LIKE ROCK! I CLIMB NOW! HUR DUR HUR..."
 

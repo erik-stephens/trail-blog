@@ -2,7 +2,6 @@
 title: DAY 29 - Welcome to the Desert
 date: 2020-09-21
 ---
-DAY 29 - Welcome to the Desert
 
 With a stuffed belly my brother dropped me off at the Vineyard Trailhead (Theodore Roosevelt Dam). The 40 miles of trail twix Sunflower and here are closed due to the Bighorn Fire ☹️
 

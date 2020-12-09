@@ -2,7 +2,6 @@
 title: DAY 15 - Snow Bowl / Flagstaff
 date: 2020-09-07
 ---
-DAY 15 - Snow Bowl / Flagstaff
 
 The start of week 3 couldn't be better.  This stretch of the trail is awesome. Looks really fun for mountain biking as well.
 

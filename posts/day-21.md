@@ -2,7 +2,6 @@
 title: DAY 21 - Blue Ridge
 date: 2020-09-13
 ---
-DAY 21 - Blue Ridge
 
 From Blue Ridge to Mogollon Rim is a nice section, especially during raspberry season which I'm a bit late for.
 

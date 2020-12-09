@@ -2,7 +2,6 @@
 title: DAY 3 - Kaibab Plateau
 date: 2020-08-26
 ---
-DAY 3 - Kaibab Plateau
 
 I think this is where I picked up my little friend.  Was more than happy to drink this water (filtered) after the long day of almost full sun, few water sources, and a trail with rocks just big enough to give my arches a not-so-gentle massage. The kinetic tape helped a bit.
 

@@ -2,11 +2,37 @@
 import Layout from '../../components/layout'
 import Head from 'next/head'
 import Image from 'next/image'
+import Link from 'next/link'
 import { getAllPostIds, getPostData } from '../../lib/posts'
 import Date from '../../components/date'
 import utilStyles from '../../styles/utils.module.css'
 import Carousel from 'react-multi-carousel'
 import 'react-multi-carousel/lib/styles.css'
+
+import dynamic from 'next/dynamic'
+
+const DynamicMap = dynamic(
+  () => import('../../components/map').then((mod) => mod.PostMap),
+  { ssr: false }
+)
+
+function DayMap({ data, images }) {
+  if (!data.day) {
+    return null
+  }
+  return (
+    <div>
+      <div className={utilStyles.lightText} style={{textAlign: 'center'}}>
+        <Link href={`./day-${data.day.past}`}>&laquo;</Link>
+        &nbsp;
+        <Date dateString={data.date} />
+        &nbsp;
+        <Link href={`./day-${data.day.next}`}>&raquo;</Link>
+      </div>
+      <DynamicMap images={images} />
+    </div>
+  )
+}
 
 export default function Post({ id, data, text, images }) {
   return (
@@ -15,11 +41,13 @@ export default function Post({ id, data, text, images }) {
         <title>{data.title}</title>
       </Head>
       <article>
-        <h1 className={utilStyles.headingXl}>{data.title}</h1>
-        <div className={utilStyles.lightText}>
-          <Date dateString={data.date} />
-        </div>
+        <h1 className={utilStyles.headingXl}>
+          {data.title}
+        </h1>
+        <DayMap data={data} images={images} />
+        <div dangerouslySetInnerHTML={{ __html: text }} />
         <Carousel
+          key={id}
           additionalTransfrom={0}
           autoPlaySpeed={3000}
           centerMode={false}
@@ -62,22 +90,17 @@ export default function Post({ id, data, text, images }) {
           slidesToSlide={1}
           swipeable
         >
-        {images.map((src) => (
-          <Image src={src} unsized={true} />
+        {images.map((image) => (
+          <Image key={image.src} src={image.src} width={image.width} height={image.height} />
         ))}
         </Carousel>
-        <div dangerouslySetInnerHTML={{ __html: text }} />
       </article>
     </Layout>
   )
 }
-  // <Image src="/images/day-01/105509c71e0ffd82d4392e4494485c81.jpg" unsized="true" />
-  // <Image src="/images/day-01/150edc18200283d9dc47d9b99b4d1328.jpg" unsized="true" />
-  // <Image src="/images/day-01/87eee6d650575b7e66c9b379281cab9f.jpg" unsized="true" />
-  // <Image src="/images/day-01/92d52f642d53a567bdc379f184707a85.jpg" unsized="true" />
 
 export async function getStaticPaths() {
-  const paths = getAllPostIds()
+  const paths = await getAllPostIds()
   return {
     paths,
     fallback: false

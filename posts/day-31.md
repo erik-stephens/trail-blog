@@ -2,7 +2,6 @@
 title: DAY 31 - Superstitious
 date: 2020-09-23
 ---
-DAY 31 - Superstitious
 
 Considering how relatively lush Reavis Ranch is, I was expecting tons of insects but hardly any bugged me during the night. Cowboy camping under the stars is romantic (and simple), but I admit that I'm missing the security of a tent.
 

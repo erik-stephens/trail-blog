@@ -2,7 +2,6 @@
 title: DAY 14 - Water Cache
 date: 2020-09-06
 ---
-DAY 14 - Water Cache
 
 Nothing too exciting today other than being saved by trail angels that left water. Without that, I would've been desperate 😬
 

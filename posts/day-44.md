@@ -2,7 +2,6 @@
 title: DAY 44 - Kentucky Camp
 date: 2020-10-06
 ---
-DAY 44 - Kentucky Camp
 
 Woke up to some strange things in the sky and a weird sensation on my skin: clouds & wind 😁
 

@@ -2,7 +2,6 @@
 title: DAY 33 - Gila Happy Place
 date: 2020-09-25
 ---
-DAY 33 - Gila Happy Place
 
 After a relatively decent night's sleep and plenty of food & water, I thought the 9 miles to Gila River would be a breeze. Didn't help that I was still hauling 4-5 liters of water just in case the river was bone dry. Pulled in before 11am just as I was starting to bonk.
 

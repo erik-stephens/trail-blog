@@ -2,7 +2,6 @@
 title: DAY 16 - Marshall Lake
 date: 2020-09-08
 ---
-DAY 16 - Marshall Lake
 
 A nice, chill day making it through Flagstaff to Marshall Lake on the other side of The Peaks now. Bought way too much food (and beer) - never thought eating & drinking would feel like such a chore, but it was, if only to get weight off my pack sooner.
 

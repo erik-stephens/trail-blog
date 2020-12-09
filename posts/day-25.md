@@ -2,7 +2,6 @@
 title: DAY 25 - Out of Focus
 date: 2020-09-17
 ---
-DAY 25 - Out of Focus
 
 Fell behind on posts cuz I had no signal and barely had enough battery to make it to Sunflower...
 

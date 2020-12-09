@@ -2,7 +2,6 @@
 title: DAY 43 - Perspective, Attitude, Altitude
 date: 2020-10-05
 ---
-DAY 43 - Perspective, Attitude, Altitude
 
 Start of week 7 started well. Even though Mt Wrightson looked so far away and the pack was heavy with food & water, turning around to see how far Mica Mtn was behind me gave me confidence that would ONLY be a day or so 🤞
 

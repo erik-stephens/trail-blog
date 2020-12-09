@@ -2,7 +2,6 @@
 title: DAY 47 - It's Miller Time
 date: 2020-10-09
 ---
-DAY 47 - It's Miller Time
 
 The sun has set on my AZT thru hike. This last passage was really cool. A steep climb and a nice chunk along the crest which was gentle. It even had a bath 🤪 The descent was pleasant, spending a lot of time in nice shade trees along a creek bed.
 

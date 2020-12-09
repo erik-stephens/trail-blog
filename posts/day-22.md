@@ -2,7 +2,6 @@
 title: DAY 22 - Highline Trail
 date: 2020-09-14
 ---
-DAY 22 - Highline Trail
 
 This section of the trail is called the Highline Trail - tons of great views of the rim. The trail was really fun. One minute strolling through pines then the next scrambling over red rock then another cooling off by a creek and then back again. A good mix of elevation changes kept it exciting without being too technical nor punishing.
 

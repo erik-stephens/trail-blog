@@ -2,7 +2,6 @@
 title: DAY 39 - "Pit" Stop
 date: 2020-10-01
 ---
-DAY 39 - "Pit" Stop
 
 On the menu today was a 12 mile stroll down the hwy to Hirabayashi Campground for the mid-day "wait for the sun to not be so angry" rest. This is where I got back on the AZT. It's an old prisoner camp. If I wasn't so tired & hot, I would've explored some more. I did score some trash water, not for drinking, but for freshening up my dirty socks.
 

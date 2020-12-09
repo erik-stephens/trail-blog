@@ -2,7 +2,6 @@
 title: DAY 18 - Too Much Tuna
 date: 2020-09-10
 ---
-DAY 18 - Too Much Tuna
 
 Fresh food turned out to be a double-edged sword. While it was great to be eating less processed food, it weighs considerably more per calorie. The SLT (spam, lettuce, tomato sandwich) is a recipe courtesy of my bro - was delish. And, yes, lugging a bottle of Miracle Whip was so worth it - come at me with Zest or don't come at all 😁
 

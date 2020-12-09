@@ -2,7 +2,6 @@
 title: DAY 35 - Happy Hour
 date: 2020-09-27
 ---
-DAY 35 - Happy Hour
 
 This stretch from Superior to Oracle has had me puckered up ever since I started planning. I was hoping for SOME rain or at least cool enough temperatures by the time I got here. Got neither.
 

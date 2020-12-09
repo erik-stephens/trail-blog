@@ -2,7 +2,6 @@
 title: DAY 40 - Mica Mountain
 date: 2020-10-02
 ---
-DAY 40 - Mica Mountain
 
 Stopped almost 6 miles short of the base last night which meant a 4000 ft ascent during hottest part of the day - too much time spent filtering water from a stock pond and addressing my blisters. I wasn't expecting next water until a spring at 8000 ft. Fortunately, Tanque Verde Canyon (pronounced "thank you very") had plenty of water at 5000 ft - better to be lucky than good 😁
 

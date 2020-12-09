@@ -2,7 +2,6 @@
 title: DAY 4 - Canyon's Edge
 date: 2020-08-27
 ---
-DAY 4 - Canyon's Edge
 
 Lack of reliable cell coverage between here and the South Rim means a bunch of posts at once...
 

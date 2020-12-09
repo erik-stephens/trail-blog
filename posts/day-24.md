@@ -2,7 +2,6 @@
 title: DAY 24 - Pine Nuts!
 date: 2020-09-16
 ---
-DAY 24 - Pine Nuts!
 
 After trippin' down Rocky Road in the morning, I arrived at East Verde River just in time for a water refill, swim, lunch, and a siesta. Lazed around this desert oasis waiting for the sun to start to dip before a 2000 ft climb outta the canyon. It was so nice that I almost stayed the night. I'm sure the insects would've loved my company 😁
 

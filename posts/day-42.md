@@ -2,7 +2,6 @@
 title: DAY 42 - Food
 date: 2020-10-04
 ---
-DAY 42 - Food
 
 End of week 6 with only one more until the finish line! Vail is a nice enough place with good people, but let's face it, it's a suburb. Thought now would be a good time to chat food.
 

@@ -2,7 +2,6 @@
 title: DAY 26 - Naked & Afraid
 date: 2020-09-18
 ---
-DAY 26 - Naked & Afraid
 
 Since leaving Pine 3 days ago, I only logged 45 miles which left me 30 miles to reach Sunflower to rendezvous with my bro in 24 hours for some rest. Good news is that it was primarily downhill and I ate & drank my pack weight down considerably.
 
