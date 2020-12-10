@@ -9,7 +9,7 @@ const Points = {
 
 const IndexMap = ({ images }) => {
   return (
-      <MapContainer key={images[0].src} center={images[parseInt(images.length / 2)].gps} zoom={7} scrollWheelZoom={false} style={{height: 800, width: '100%'}}>
+      <MapContainer tap={false} key={images[0].src} center={images[parseInt(images.length / 2)].gps} zoom={7} scrollWheelZoom={false} style={{height: 800, width: '100%'}}>
       <TileLayer
         attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
@@ -30,7 +30,7 @@ const IndexMap = ({ images }) => {
 
 const PostMap = ({ images }) => {
   return (
-    <MapContainer key={images[0].src} center={images[0].gps} zoom={12} scrollWheelZoom={false} style={{height: 600, width: '100%'}}>
+    <MapContainer tap={false} key={images[0].src} center={images[0].gps} zoom={12} scrollWheelZoom={false} style={{height: 600, width: '100%'}}>
       <TileLayer
         attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
