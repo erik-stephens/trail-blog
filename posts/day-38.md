@@ -1,6 +1,7 @@
 ---
 title: DAY 38 - Done Blazing
 date: 2020-09-30
+past: 36
 ---
 
 After eating & drinking (only 8 beers) my fill in Summerhaven, it was time to move on. A huge thanks to General Store for letting me loiter while charging my batteries!

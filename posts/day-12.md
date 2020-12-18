@@ -1,6 +1,7 @@
 ---
 title: DAY 12 - Coconino Rim
 date: 2020-09-04
+past: 10
 ---
 
 "On the trail again..." Day 11 was a veg out day. We raided the local thrift stores, always an exciting time when visiting a new locale. Managed to find some stuff for my kit: hat, shirt, poles.

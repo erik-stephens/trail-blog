@@ -1,6 +1,7 @@
 ---
 title: DAYS 19 & 20 - Cabin "Fever"
 date: 2020-09-11
+next: 21
 ---
 
 Since the last day was such a bust on mileage & foot pain, today had to be a 30+ mile grind in order to make it to my buddy Sean for a homemade meal, good company, and a warm bed. Thank you, trail angels, for letting me CRASH your pad! That's Gatlin, Aunt Jan, Sean, Ollie, Tara, April, Uncle Fred, and Henry.

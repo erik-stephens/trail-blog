@@ -1,6 +1,7 @@
 ---
 title: DAYS 36-37 - Flamed Out
 date: 2020-08-28
+next: 38
 ---
 
 The start of week 6!

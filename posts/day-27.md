@@ -1,6 +1,7 @@
 ---
 title: DAYS 27-28 - Midway Rest
 date: 2020-09-19
+next: 29
 ---
 
 Spent these days stuffing my face with food, resting my feet, and taking care of some real world business. Spent a night at Apache Lake with my bro who is helping me out a ton with the logistical support. I started the trail at 150 pounds and weighed in at 140! I look really weird: big head on small, veiny body - not good.
